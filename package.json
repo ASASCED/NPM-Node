@@ -1,0 +1,25 @@
+{
+  "name": "npm-node",
+  "version": "1.0.0",
+  "description": "Prueba de modulos de node para npm.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ASASCED/NPM-Node.git"
+  },
+  "keywords": [
+    "npm",
+    "node",
+    "introduccion",
+    "js"
+  ],
+  "author": "Jesus Jimenez Cordero <jesus_heaven117@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ASASCED/NPM-Node/issues"
+  },
+  "homepage": "https://github.com/ASASCED/NPM-Node#readme"
+}
